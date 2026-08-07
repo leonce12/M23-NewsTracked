@@ -2,3 +2,25 @@ __pycache__/
 *.pyc
 .DS_Store
 events_test.json
+# Security / Environment Variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local IDE & OS Files
+.DS_Store
+.vscode/
+.idea/
+
+# Python Runtime & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Test & Local Outputs
+events_test.json
