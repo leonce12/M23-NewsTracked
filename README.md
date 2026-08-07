@@ -31,12 +31,3 @@ It was built to keep the focus on clarity and speed, letting users see what’s 
 * **Version Control & CI/CD:** GitHub Actions / Cloudflare Git Integration
 
 ---
-
-## 🚀 Running Locally
-
-If you want to clone this repository and run or modify it on your local machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/leonce12/M23-NewsTracked.git](https://github.com/leonce12/M23-NewsTracked.git)
-   cd M23-NewsTracked
