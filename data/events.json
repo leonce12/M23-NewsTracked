@@ -1,13 +1,34 @@
 {
-  "updated": "2026-08-19T09:20:46.800378+00:00",
-  "count": 481,
+  "updated": "2026-08-19T12:19:12.250491+00:00",
+  "count": 486,
   "items": [
+    {
+      "title": "Ebola fears keep pregnant women away from healthcare in eastern DRC",
+      "link": "http://www.africanews.com/2026/08/19/ebola-fears-keep-pregnant-women-away-from-healthcare-in-eastern-drc/",
+      "summary": "Fear of Ebola is keeping pregnant women away from healthcare facilities in eastern Democratic Republic of Congo, raising the risk of stillbirths, premature births and maternal deaths as the country's deadliest Ebola outbreak continues to disrupt routine medical care.",
+      "source": "Africanews",
+      "published": "2026-08-19T11:45:08+00:00"
+    },
+    {
+      "title": "WHO chief says the DR Congo's Ebola outbreak remains a global emergency",
+      "link": "http://www.africanews.com/2026/08/19/who-chief-says-the-dr-congos-ebola-outbreak-remains-a-global-emergency/",
+      "summary": "Dr Tedros Adhanom Ghebreyesus said it was moving faster than any previous one and had a high risk of spreading to other countries in the region.",
+      "source": "Africanews",
+      "published": "2026-08-19T09:47:32+00:00"
+    },
     {
       "title": "[SMM Flash] The coltan-rich Rubaya mining area in eastern Democratic",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVRybjcycThlUFhybmxXalRpVWljQ0FHdWdGSFpXU00tdnREVC03OWpNdm1FcnAtMXlfc3pBbGM2OTJPZ0h5MVlraVZwSU5wU2ZORkhteWFsSVp6QmoxaUxWT0wtRVNEYWl4b1JkRnhyTVgwMHZEdjVvLU5CMml6S2Y4TFo5MlZudmF2aGJDdC1pdnJMNjZTOFNfZkVsLWhxUllpTGZKU2dKOE1EdDBveXZHblBhSkxBSzVVNWFZaENwMk0?oc=5",
       "summary": "[SMM Flash] The coltan-rich Rubaya mining area in eastern Democratic&nbsp;&nbsp;Shanghai Metals Market",
       "source": "Shanghai Metals Market",
       "published": "2026-08-19T08:42:41+00:00"
+    },
+    {
+      "title": "Germany increases Ebola aid for Congo",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02cmRRUlFPVDJSREVnOENyR2Z5NTF0YWJqaWtVNjFhWFpwQWhfUkxuemQ5T2gzUk1wZHhMbE1PYkpteTRrRVRIbHBHMkRRZklDaFdwTVJIQWl0RVVWS1VpaGdsS2UyT3RXUVdYbU0zaVJmZFd5cElWT3J0TDk?oc=5",
+      "summary": "Germany increases Ebola aid for Congo&nbsp;&nbsp;deutschland.de",
+      "source": "deutschland.de",
+      "published": "2026-08-19T08:04:41+00:00"
     },
     {
       "title": "Ebola in the Democratic Republic of Congo: What's going on and why is the outbreak so alarming?",
@@ -27,6 +48,13 @@
       "title": "M23 united Congo and Burundi. Trade and geography may keep them together",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRHprQzd6cXVrNDFqOGg1eldERWRqVDFfb1hCZlhDTjZMcnVGTy02R0VnYXFGVEFvTWNyRnVlaWtuYTNINlRtTS10Y0JGTGR4bFQ3Nm1kczRLOXFUUXZVaDN0emdpTHVDY2kyM0J3YUh5U2NFbUtkVEY1a0RHeEdTXzFVSjFqRUZ5MERkdkpMWVlWLXRaeGtDRnBVMG9tWjNPZU43X2xmeWZiZmZQb2NlWTBYMW5Wd2Q2MVppbk11SnRhZGdwS1VleDRJSU9HUQ?oc=5",
       "summary": "M23 united Congo and Burundi. Trade and geography may keep them together&nbsp;&nbsp;The EastAfrican",
+      "source": "The EastAfrican",
+      "published": "2026-08-19T05:00:00+00:00"
+    },
+    {
+      "title": "How the M23 conflict strengthened Congo-Burundi alliance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMENEc0llMzhqLUFEQ0ZCeGtmY1BRRHM5UkZqQjRtTEEzcUNGSV9ya3VNRHBibmNERi00OVhiYXMwU2hsbDVMM3pfRGRnSEVTbUdXUk1ra3dsY1J3ZTRWYWhtc2k3WlY1czBPZUVOQm93N0dENHBialJzcmpFNTByaDQ1UlVHWDB4WnlVb09MRjVpWjNIYlRVY2kwR011dw?oc=5",
+      "summary": "How the M23 conflict strengthened Congo-Burundi alliance&nbsp;&nbsp;The EastAfrican",
       "source": "The EastAfrican",
       "published": "2026-08-19T05:00:00+00:00"
     },
@@ -2401,6 +2429,13 @@
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOai1NS3NoTjZENFdyYTFId3MwLVBDNzdudDhvNGNFdXQxbmZ0RlZHbk9JcXJoYXFEZ1duN3lrUzdjV1VVMkFIT1V0VUpiM3ppbnp0b2tibEZTZjk2NXdDZlBxWGF6eEMzWTdRbzBiMHZkQVhHUU81YVMyVXp4T3k3MnRyci0zcEh4M3l1YUlaRU9qdkExaWhYOW91SUhpdUpBQW5UakZyY2pVMXJRZTluNC0waXpVUmIxR01MVXlPeFAwc1BMcUZMWFplRjBTUjlvMjM4d0lELU12bjJEU0tZc05GTWliWDJ1YUUxV0xtM2lWTzZRQ1QtcU9TYTVHSDIxQlZHWGlnZ251WmlPNmdINHI0MHVraWFaak5WS0J1Wl9WZV9wZE1Z?oc=5",
       "summary": "Democratic Republic of Congo Key Message Update - Crisis (IPC Phase 3) outcomes persist in conflict-affected zones despite the green harvest, May - September 2026&nbsp;&nbsp;ReliefWeb",
       "source": "ReliefWeb",
+      "published": "2026-06-11T07:00:00+00:00"
+    },
+    {
+      "title": "DR Congo: Engage Communities in Ebola Response",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcllBY2FObUJMSEpCWVhEczBoOTJfTWg4Um92c3AtdWxweVBVTTU5RlE0eUM5cnQzM3AwM25Ca1pxN0N2T3ZqQWlMdXA1QTItdU5ralBLU2Z1bERiWlhQZHZNUC0yRlJJeWV4eDFRUGlXcEE4Vlg4S1ZqaHFXMzE0SFpCM3ZvNnNi?oc=5",
+      "summary": "DR Congo: Engage Communities in Ebola Response&nbsp;&nbsp;Human Rights Watch",
+      "source": "Human Rights Watch",
       "published": "2026-06-11T07:00:00+00:00"
     },
     {
