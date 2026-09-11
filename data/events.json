@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-11T01:43:46.881032+00:00",
-  "count": 788,
+  "updated": "2026-09-11T07:32:42.451719+00:00",
+  "count": 781,
   "items": [
+    {
+      "title": "Congo school fire kills at least 26 students , injures dozens in Bukavu",
+      "link": "https://www.business-standard.com/world-news/congo-school-fire-kills-at-least-26-students-injures-dozens-in-bukavu-126091100021_1.html",
+      "summary": "",
+      "source": "business-standard.com",
+      "published": "2026-09-11T05:15:00+00:00"
+    },
+    {
+      "title": "Congo fire kills 26 students as blaze spreads from house to schools",
+      "link": "https://dailypioneer.com/news/fire-eastern-congo-kills-26-students-two-schools",
+      "summary": "",
+      "source": "dailypioneer.com",
+      "published": "2026-09-11T03:45:00+00:00"
+    },
+    {
+      "title": "Africa top health body warns Congo Ebola outbreak is rapidly spreading beyond epicentre",
+      "link": "https://www.asiaone.com/world/africas-top-health-body-warns-congos-ebola-outbreak-rapidly-spreading-beyond-epicentre",
+      "summary": "",
+      "source": "asiaone.com",
+      "published": "2026-09-11T03:00:00+00:00"
+    },
     {
       "title": "Fire sweeps through two schools in Congo , killing at least 26 students",
       "link": "https://www.theglobeandmail.com/world/article-congo-fire-school-student-bukavu/",
@@ -5447,76 +5468,6 @@
       "summary": "Civilians caught in war of drones in eastern DR Congo&nbsp;&nbsp;africanews.com",
       "source": "africanews.com",
       "published": "2026-05-15T07:00:00+00:00"
-    },
-    {
-      "title": "DR Congo: M23 Rebels Commit Atrocities in Eastern City",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMnpzVTF1Q01VTXkxNDdLV0VvSkpLeUpTNmlOaEpqb2xJbE5PS1ktbl9aUFNBQTM4VEQxbzNXLTkyR05FdEtOV2VaaW5zaW1saVlmSFNuajFtamt4S0Y3aWtfQmJVYTJsWG55eGxSbi1tMUJNbGRqczJqU3pfSXdHMjRQTHM1M1pnZlI2ajJtRWp6eVE?oc=5",
-      "summary": "DR Congo: M23 Rebels Commit Atrocities in Eastern City&nbsp;&nbsp;Human Rights Watch",
-      "source": "Human Rights Watch",
-      "published": "2026-05-14T07:00:00+00:00"
-    },
-    {
-      "title": "M23 rebels withdraw from several positions under US diplomatic pressure",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmdhdWdsT2RwdE8xRGFUSkZxQ2pCSF9Pb2RKQm8yZjhWOGs3cF9YcmNVakIxUzZEbEZkMFlPZnFTNmVDRHRBa21YVnFMNkh0ck9DLXBxOVZranFobkFUOEwycmYxQzhJQkhCTEtpYkVEQXhSVWQ5eWx0dW9kekVhaHU0RDN0U1FnTWM0emtnbmpPZ0sxVXR1a1lNYndja2dz?oc=5",
-      "summary": "M23 rebels withdraw from several positions under US diplomatic pressure&nbsp;&nbsp;France 24",
-      "source": "France 24",
-      "published": "2026-05-14T07:00:00+00:00"
-    },
-    {
-      "title": "DR Congo: HRW accuses M23 and Rwandan forces of killings, rape in Uvira",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnMtWUxadXppLVhDVWo0dUJRdDdFLXRQQ1h2M0F6d1hqeXhMR1Q5ejRydWVjaVVkc3E5UjF1OF9wZkxUbnRzQWRGR2tpU0RkRjBEV2JyMmFaclpscE05ekJqNzNia05OUVpaSHZWUXo1czdlMnk1OFhzMWJqWm9lV3FhSnNwTFFLeHl5RzQ1aGZmcW5Rcl9nZ2d1elV1VjFBdU05b1lrN2VMelpB0gGyAUFVX3lxTE0tVDAySHNMMXFUMVFmY2U4NUo4LVdvRTFZNlRpS1VFd3VtNkVEZFNJQ0pHMW1jdjVDalJseHpmMk1lUVc2bTRzTnlmclpISi00N0FUc0FXUE9GVVhDeHAtdXlTN1c4YnhTLXo4Xy1ablVteEF6dnNyYUVNTTM1VDRWallYaFJsSldNMk9kOEQtc1VmbDhYSTd0UnZPTE1VcWRyZ1o5blI5LVdwTUV5OTdsZ3c?oc=5",
-      "summary": "DR Congo: HRW accuses M23 and Rwandan forces of killings, rape in Uvira&nbsp;&nbsp;africanews.com",
-      "source": "africanews.com",
-      "published": "2026-05-14T07:00:00+00:00"
-    },
-    {
-      "title": "Rights group says M23, Rwandan army committed killings, rapes in Congo’s Uvira",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUZrbFNWVWNjQ2pmOWpabm40UVhqdXptQUlVYmp4YmRXRnQyeEw2anJqWFM5Q1BHaXlfSXZuUkpOcVNCNUZFODRWald6d1dQSUMxYzRyVFp1OG5zTjhBNGNlR2xCZWplVEtsQ3lyY0N2QXlEU3lFREhwbEtPQTdhTEJLZ2RBNU1rQ2xqT0tmX1B5R04xamluX1FDWnlMdHc3MlFwcWZpcG5VY3dpWEhtVTVuVWRwaVQyWnhycnYzc213bE1iUjVj?oc=5",
-      "summary": "Rights group says M23, Rwandan army committed killings, rapes in Congo’s Uvira&nbsp;&nbsp;The Straits Times",
-      "source": "The Straits Times",
-      "published": "2026-05-14T07:00:00+00:00"
-    },
-    {
-      "title": "M23 Abandons Gains In Eastern Drc; Political Showdown In Somalia: Africa File, May 14, 2026",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1ZWU2pXV2pJRjNITW5jTVdoMjFsUWV6c21QWnl6QUs3UktmSG9ROTZET3FuSUMwTmt4NFc5REV4Nl8xcS1BTE15M3N1b1ZUZ2tvcjFEX3RXZ2R6QUJ1V2M1U19mVXlsb1NsNG9seGxMNkQ4SDBONHdoTjJnM2FjTTNOYlNSVEZ0OU4zcFBVdVNnV0J4bEhjbEtaRmdHazhvRDlrblh4U2xPb1c0WXc?oc=5",
-      "summary": "M23 Abandons Gains In Eastern Drc; Political Showdown In Somalia: Africa File, May 14, 2026&nbsp;&nbsp;Critical Threats",
-      "source": "Critical Threats",
-      "published": "2026-05-14T07:00:00+00:00"
-    },
-    {
-      "title": "“We Are Civilians!”",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1czMFFWTEtkaFVPY251U0tveGstb0pWZVJpaDlNVUI1YzdYSGc2NjliM29HVjkxSVFxUU5YaUVHdnRUUVFFcFRKVjVzWlJpRTF1eXlIVG1abllobXB0elY5S2NNbUpkeFRBa0lFTUI1TU82QXlwaVY4bk5rNExTMXhnMzRxY3VnWnRGNzVUNVhTMDNpMHpjakNyUVpwaGFybHJobUxKejJQWXJBUnVJVGJ5YkpSV2w0?oc=5",
-      "summary": "“We Are Civilians!”&nbsp;&nbsp;Human Rights Watch",
-      "source": "Human Rights Watch",
-      "published": "2026-05-14T07:00:00+00:00"
-    },
-    {
-      "title": "M23 Rebels Commit Atrocities in Eastern Congolese City",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2Z0a1k4WHpWN2Y3TkxOMkxqeExlZlhwRlAydG03UlRYaGVLMjN3STJjNkY5Y2xwTFNBcmNtbHFybGxSOElTc2FyYktrNFcwREdUdk5TTVl2RUFtOFNPcHc2Z01XMEpUUTJuOTB4MmxrbEVFV1JfTVBxekttSDNBM3FpNTRyZGZQOU1xNGxuUkNWWFpKOWk2MjhYYlZoMFhPVXVFX3RmVQ?oc=5",
-      "summary": "M23 Rebels Commit Atrocities in Eastern Congolese City&nbsp;&nbsp;Human Rights Watch",
-      "source": "Human Rights Watch",
-      "published": "2026-05-14T07:00:00+00:00"
-    },
-    {
-      "title": "Intambara yo muri RD Congo: Ingabo za M23 n'Urwanda zagirizwa gukora amahano muri Uvira",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iUTR1UjAyeXptTmg2a0RzdFVIWm1EZnVJLXFGM1Jrb3ozNF9tOWNBLWpSVEhmemRyRVd5MjFyYlNEeWo0U21iaW9neWVlUU91WDZhZzhtR1VBbi1I0gFiQVVfeXFMTWUwVFdmb1ZJS08xbm55MktGVGUxLVhPMV9aS1RqZUl2ekxWMXVNRV9mcGVRcTBWNi1NczB6MkhqbGkzbkxEaFBpZTJBYUxHU09hSnhua2Q3TGo4MnhBVkdrMFE?oc=5",
-      "summary": "Intambara yo muri RD Congo: Ingabo za M23 n'Urwanda zagirizwa gukora amahano muri Uvira&nbsp;&nbsp;BBC",
-      "source": "BBC",
-      "published": "2026-05-14T07:00:00+00:00"
-    },
-    {
-      "title": "Minerals for Regime Security in the DRC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xaFJXQ090MFZmZmNmb2ZVd0lTQS1Nb1NfQ3Voa1NJRnJrTk5DUXpCOEpIdi1JdUZEVXhwVW9vNDJFd1JnUmNsQmdyRzVDVGpKbF9CSXVNdWU3WnpDWjhvX09PZ3lqbGREbFpuUVU1alJNNHJvM3lF?oc=5",
-      "summary": "Minerals for Regime Security in the DRC&nbsp;&nbsp;Council on Foreign Relations",
-      "source": "Council on Foreign Relations",
-      "published": "2026-05-14T07:00:00+00:00"
-    },
-    {
-      "title": "DR Congo conflict: M23 and Rwanda accused of atrocities in Uvira",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fSldzdFRNWG9aNFZlRUZEU2hibmNoOUtwVGhZLWNxNDZZeWtYQVctNE9pdjAxanFlX0tnY0lWRVdQRkpVWlUwVVhueTR5eXdiSzYwc2VtOF9NUQ?oc=5",
-      "summary": "DR Congo conflict: M23 and Rwanda accused of atrocities in Uvira&nbsp;&nbsp;BBC",
-      "source": "BBC",
-      "published": "2026-05-14T07:00:00+00:00"
     }
   ]
 }
