@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-10T23:56:31.754965+00:00",
+  "updated": "2026-10-11T02:56:00.659727+00:00",
   "count": 800,
   "items": [
+    {
+      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+      "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+      "summary": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola.",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T00:23:50+00:00"
+    },
     {
       "title": "Blackwater Founder’s Forces Hit In Congo Ambush That Wounded Former UFC Fighter",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVNQTUhXUGRWcDNpZW43YzFSRFk1anRXMFNnNThlT2pIbUo3MEgtWnludkhGTkYxZkZ2RncwX0Fnb2I2NHF4VjN0dEFOejVhejhXcF9zSHdZZ3BKV2ZvZWo5YnFvWGR0VEo3UnpVODhrWjR3dGo4ZWNBZDByc2tod0VzTG1XX2RPdU0zWkl1dThXNGI5Y0pZZUswOGxmRHJJeElLUDQtUFphSThXRWU2OW9rd2Q?oc=5",
@@ -5594,13 +5601,6 @@
       "summary": "",
       "source": "cp24.com",
       "published": "2026-07-10T03:00:00+00:00"
-    },
-    {
-      "title": "DRC : Tensions amid constitutional referendum",
-      "link": "https://www.news24.com/world/africa/drc-tensions-amid-constitutional-referendum-20260709-1116",
-      "summary": "",
-      "source": "news24.com",
-      "published": "2026-07-09T21:45:00+00:00"
     }
   ]
 }
