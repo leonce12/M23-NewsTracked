@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T23:31:08.331839+00:00",
+  "updated": "2026-10-21T02:14:47.876926+00:00",
   "count": 800,
   "items": [
     {
@@ -8,6 +8,13 @@
       "summary": "Analysing Africa newsletter: Joseph Kabila’s gamble in eastern Congo&nbsp;&nbsp;The Economist",
       "source": "The Economist",
       "published": "2026-10-20T16:35:32+00:00"
+    },
+    {
+      "title": "ADF Spreads in Democratic Republic of Congo",
+      "link": "https://ict.org.il/adf-spreads-in-drc/",
+      "summary": "",
+      "source": "ict.org.il",
+      "published": "2026-10-20T14:00:00+00:00"
     },
     {
       "title": "DR Congo: $700m in Ebola aid unaccounted for as outbreak spreads",
@@ -5594,13 +5601,6 @@
       "summary": "",
       "source": "internazionale.it",
       "published": "2026-07-29T19:45:00+00:00"
-    },
-    {
-      "title": "DR Congo : Some Kinshasa residents support controversial referendum law",
-      "link": "https://www.africanews.com/2026/07/29/dr-congo-some-kinshasa-residents-support-controversial-referendum-law/",
-      "summary": "",
-      "source": "africanews.com",
-      "published": "2026-07-29T18:15:00+00:00"
     }
   ]
 }
